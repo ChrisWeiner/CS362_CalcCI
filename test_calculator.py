@@ -1,3 +1,7 @@
+"""
+Unit tests using pytest for the calculator app
+"""
+
 import calculator as calc
 
 
@@ -8,4 +12,3 @@ class TestCalculator:
 
     def test_subtract(self):
         assert 2 == calc.subtract(4, 2)
-        

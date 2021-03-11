@@ -1,10 +1,10 @@
+"""
+Calculator app containing basic methods.
+"""
 
-
-
-def add(a,b):
+def add(a, b):
     return a + b
 
 
-def subtract(a,b):
+def subtract(a, b):
     return a - b
-    
