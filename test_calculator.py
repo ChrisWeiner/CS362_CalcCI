@@ -1,6 +1,5 @@
-#Christopher Weiner
-#CS 362 - Winter 2021
 import calculator as calc
+
 
 class TestCalculator:
 
