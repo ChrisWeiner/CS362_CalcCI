@@ -1,0 +1,5 @@
+{
+    "workbench.editorAssociations": [
+    ],
+    "terminal.integrated.shellArgs.windows": ["-ExecutionPolicy", "Bypass"]
+}
